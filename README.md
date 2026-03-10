@@ -40,10 +40,10 @@ Esta parte del codigo es la encargada de elimar el tipo de café, primero le pid
 
 Aquí se guardan los tipos de café, este documento usa estructura MarkDown y su texto genera una tabla que se veria así:
 
+| Nombre | Descripción | Precio | Disponibilidad |
 |----|----|----|----|
 | Café | Solo cafe | 5000 | Disponible |
 | Café con leche | Es cafe con leche | 6000 | Disponible |
-
 | Espresso | Basicamente un café | 8000 | Disponible |
 
 # Información de contacto: 🧑🏻‍🦱💫✨
